@@ -75,17 +75,17 @@ Backend API: `http://localhost:5000`
 
 ## POST Request via Postman
 Testing the URL shortening API with custom shortcode and webhook integration.
-![Shorten URLs](Image/POST-Create Short URL.png)
+
 ![POST-Create Short URL](Image/POST-Create%20Short%20URL.png)
 
 ## Attendance API Response
 Example of a successful GET request returning structured attendance data.
-![Shorten URLs](Image/GET-Stats.png)
+![GET-Stats](Image/GET-Stats.png)
 
 ## Index Not Found Error
 Handling a 404 error when querying a non-existent index.
-![Shorten URLs](Image/Edge%20Case-Unknown%20Shortcode.png)
+![Edge Case-Unknown Shortcode](Image/Edge%20Case-Unknown%20Shortcode.png)
 
 ## Expired Link Response
 Example of a 401 Unauthorized response due to link expiry.
-![Shorten URLs](Image/Link%20Expired.png)
+![Link Expired](Image/Link%20Expired.png)
