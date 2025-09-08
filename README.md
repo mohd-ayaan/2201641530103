@@ -21,14 +21,14 @@ This is a full-stack URL Shortener built for the Affordmed campus hiring evaluat
 - **Logging**: Custom middleware (frontend + backend)
 - **Storage**: In-memory (for simplicity and speed)
 
-## 🚀 Features
+##  Features
 - RESTful API for URL creation, redirection, and stats
 - Expiry logic and shortcode conflict detection
 - Click tracking with timestamp and source
 - Logging middleware for observability
 - Frontend stats dashboard with copy + clear actions
 
-## 📂 Folder Structure
+##  Folder Structure
 ```
 affordmed-url-shortener/
 ├── backend/
@@ -51,7 +51,7 @@ affordmed-url-shortener/
 └── .gitignore
 ```
 
-## 🧪 How to Run Locally
+##  How to Run Locally
 
 ### Backend
 ```bash
