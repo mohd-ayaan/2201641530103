@@ -1,0 +1,8 @@
+{
+  "name": "logging-middleware-frontend",
+  "version": "1.0.0",
+  "module": "index.js",
+  "devDependencies": {
+    "webpack-cli": "^6.0.1"
+  }
+}
