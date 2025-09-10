@@ -9,7 +9,7 @@ Track click counts, timestamps, and sources for each shortcode.
 ![Statistics Page](Image/Short%20URL%20Statistics.png)
 
 ## Project Overview
-This is a full-stack URL Shortener built for the Affordmed campus hiring evaluation. It allows users to:
+This is a full-stack URL Shortener. It allows users to:
 - Create short URLs with custom shortcodes and expiry
 - Track click statistics and sources
 - Clear stats and copy links via frontend controls
