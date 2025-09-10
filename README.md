@@ -28,28 +28,6 @@ This is a full-stack URL Shortener built for the Affordmed campus hiring evaluat
 - Logging middleware for observability
 - Frontend stats dashboard with copy + clear actions
 
-##  Folder Structure
-```
-affordmed-url-shortener/
-├── backend/
-│   ├── server.js
-│   └── package.json
-├── frontend/
-│   ├── src/
-│   │   ├── pages/
-│   │   │   └── stats.jsx
-│   │   └── App.jsx
-│   ├── public/
-│   └── package.json
-├── logging-middleware-backend/
-│   ├── index.js
-│   └── package.json
-├── logging-middleware-frontend/
-│   ├── index.js
-│   └── package.json
-├── README.md
-└── .gitignore
-```
 
 ##  How to Run Locally
 
